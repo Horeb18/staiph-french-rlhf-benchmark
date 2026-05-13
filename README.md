@@ -90,7 +90,7 @@ Le détail brut : [`benchmark_french_rlhf_results.csv`](benchmark_french_rlhf_re
 
 ## Auteur
 
-**Horeb N'DINGA** — co-fondateur de [STEF](https://steftalent.fr), infrastructure de données IA souveraine pour les acteurs européens du LLM.
+**Horeb N'DINGA** — co-fondateur de [STAIPH](https://steftalent.fr), infrastructure de données IA souveraine pour les acteurs européens du LLM.
 
 STEF construit des datasets RLHF nativement français annotés par experts (juridique, finance, médical, code) sous une rubrique standardisée. Si ce benchmark vous parle et que vous travaillez sur un modèle qui mérite mieux que 0.66% de français : [horebndinga78@gmail.com](mailto:horebndinga78@gmail.com).
 
